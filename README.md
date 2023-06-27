@@ -12,5 +12,5 @@
 
 contact 
 
-0beloved@naver.com
-suted321@gmail.com
+0beloved@naver.com <br>
+suted321@gmail.com <br> 
