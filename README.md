@@ -1,5 +1,11 @@
 # 황민규 
 
+ 
+---
+## 학력 
+
+서강대학교 경영학부 2016.03 ~ 2023.02
+
 
 ---
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/> [Velog](https://velog.io/@jaban) <br>
@@ -50,12 +56,6 @@
 contact 
 0beloved@naver.com <br>
 suted321@gmail.com <br> 
-
- 
----
-## 학력 
-
-서강대학교 경영학부 2016.03 ~ 2023.02
 
 
 ---
