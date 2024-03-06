@@ -17,6 +17,35 @@
 
 
 <br><br><br><br>
+
+## STACK 
+
+
+<h4> 
+
+OS[^1] 
+
+</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
+
+<h4>
+  
+Communication[^2] 
+
+</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=github,notion)](https://skillicons.dev)
+
+<h4> 
+
+Work[^3] 
+
+</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,py,pytorch,sklearn,docker,flask,grafana,prometheus)](https://skillicons.dev)
+
+
 개인 기술 Stack 
 
   <!-- Badge -->
