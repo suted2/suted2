@@ -45,6 +45,11 @@ Work[^3]
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,pytorch,sklearn,docker,flask,grafana,prometheus)](https://skillicons.dev)
 
+[^1]: 주로 사용하는 OS는 Window, ML/DL의 경우는 Ubuntu를 주로 사용합니다. 
+[^2]: Github를 통해 코드를 공유하고 리뷰하며, 저의 의견 아카이브는 Notion을 통해 진행합니다. 
+[^3]: ML/DL 기술을 AI Mata 서비스에 적용하기 위해 사용하는 툴입니다.
+
+
 
 개인 기술 Stack 
 
